@@ -51,7 +51,7 @@ function App() {
 
   return (
     <>
-      <div className="container-fluid bg-[url('./src/assets/sky.jpg')]">
+      <div className="container-fluid bg-[url('/sky.jpg')]">
         <div className="h-[100vh] py-2  overflow-hidden md:max-w-[400px] m-auto md:rounded-3xl bg-opacity-10 ">
           <div className="flex justify-center ">
             <input
